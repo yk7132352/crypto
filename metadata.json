@@ -1,0 +1,17 @@
+{
+  "name": "EnderCoin",
+  "symbol": "ENDR",
+  "logo": "https://raw.githubusercontent.com/yk7132352/crypto/main/logo.png",
+  "description": "A Solana Token Based On The Game Minecraft.",
+  "mint": "HM9h3VNTk7mRx18KQWcetY3CBymZRTqsQFc24oHecGHn",
+  "data": {
+    "type": "fungible",
+    "name": "EnderCoin",
+    "symbol": "ENDR",
+    "logo":"https://raw.githubusercontent.com/yk7132352/crypto/main/logo.png",
+    "uri":"https://raw.githubusercontent.com/yk7132352/crypto/main/uri.txt",
+    "seller_fee_basis_points": 0
+  },
+  "uri":"https://raw.githubusercontent.com/yk7132352/crypto/main/uri.txt",
+  "seller_fee_basis_points": 0
+}
