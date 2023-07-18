@@ -1,0 +1,6 @@
+{
+  "name": "EnderCoin",
+  "symbol": "ENDR",
+  "description": "A Solana Crypto Token Based on Minecraft",
+  "image": "https://raw.githubusercontent.com/yk7132352/crypto/main/logo.png"
+}
